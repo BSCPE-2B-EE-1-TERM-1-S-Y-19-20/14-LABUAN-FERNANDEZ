@@ -8,4 +8,4 @@ DELTA-TO-WYE RESISTOR READING USING ARDUINO
 ## FINAL-PROJECT:
 CAPACITOR AND INDUCTOR READING USING ARDUINO
 <br>
-[FINAL-PROJECT-CAPACITANCE (1).fzz](https://raw.githubusercontent.com/maxangelo987/MAXANGELO987.GITHUB.IO/master/images/maks.jpg)]()
+[![INSERT YOUR FRITZING PICTURE HERE](https://raw.githubusercontent.com/maxangelo987/MAXANGELO987.GITHUB.IO/master/images/maks.jpg)]()
